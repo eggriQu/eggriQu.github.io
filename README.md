@@ -10,5 +10,5 @@ https://github.com/eggriQu/Chroma-Gloop
 2D Platformer made for a game jam as part of the Game Development module.
 https://github.com/eggriQu/GromlinGame
 
-#Swashbucklin
+# Swashbucklin
 Top down shooter prototype made for a game jam as part of the Game Development module.
