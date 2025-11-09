@@ -1,6 +1,10 @@
 # eggriQu.github.io
 Showcase of code written for my University Games Tech course, and other personal projects.
 
+# Capitalisinn
+Tycoon game made for my final 1st year game jam. Shown off at EGX 2025 by The University of Portsmouth
+https://github.com/AshyWashyUwU/Project-Brew-Inn/commits/main/?author=eggriQu
+
 # Procedural Dungeon
 Dungeon Crawler game I'm currently working on for my current gameplay programming course module.
 https://github.com/eggriQu/Procedural-Dungeon
