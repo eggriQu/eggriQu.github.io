@@ -1,6 +1,9 @@
 # eggriQu.github.io
-Showcase of code written for my University Games Tech course.
+Showcase of code written for my University Games Tech course, and other personal projects.
 
+# Procedural Dungeon
+Dungeon Crawler game I'm currently working on for my current gameplay programming course module.
+https://github.com/eggriQu/Procedural-Dungeon
 
 # Chroma Gloop
 Small scale platformer. Worked on as a summer project between 1st and 2nd year.
