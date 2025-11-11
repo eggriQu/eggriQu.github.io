@@ -1,10 +1,6 @@
 # eggriQu.github.io
 Showcase of code written for my University Games Tech course, and other personal projects.
 
-# Capitalisinn
-Tycoon game made for my final 1st year game jam. Shown off at EGX 2025 by The University of Portsmouth
-https://github.com/AshyWashyUwU/Project-Brew-Inn/commits/main/?author=eggriQu
-
 # Procedural Dungeon
 Dungeon Crawler game I'm currently working on for my current gameplay programming course module.
 https://github.com/eggriQu/Procedural-Dungeon
@@ -12,6 +8,10 @@ https://github.com/eggriQu/Procedural-Dungeon
 # Chroma Gloop
 Small scale platformer. Worked on as a summer project between 1st and 2nd year.
 https://github.com/eggriQu/Chroma-Gloop
+
+# Capitalisinn
+Tycoon game made for my final 1st year game jam. Shown off at EGX 2025 by The University of Portsmouth
+https://github.com/AshyWashyUwU/Project-Brew-Inn/commits/main/?author=eggriQu
 
 # Gromlin Game
 2D Platformer made for a game jam as part of the Game Development module.
