@@ -1,4 +1,3 @@
-# eggriQu.github.io
 Showcase of code written for my University Games Tech course, and other personal projects.
 
 # <a href="https://github.com/eggriQu/Procedural-Dungeon">Procedural Dungeon</a>
