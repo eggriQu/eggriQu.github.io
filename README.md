@@ -1,26 +1,20 @@
 # eggriQu.github.io
 Showcase of code written for my University Games Tech course, and other personal projects.
 
-# Procedural Dungeon
+# <a href="https://github.com/eggriQu/Procedural-Dungeon">Procedural Dungeon</a>
 Dungeon Crawler game I'm currently working on for my current gameplay programming course module.
-https://github.com/eggriQu/Procedural-Dungeon
 
-# Chroma Gloop
+# <a href="https://github.com/eggriQu/Chroma-Gloop">Chroma Gloop</a>
 Small scale platformer. Worked on as a summer project between 1st and 2nd year.
-https://github.com/eggriQu/Chroma-Gloop
 
-# Capitalisinn
+# <a href="https://github.com/AshyWashyUwU/Project-Brew-Inn/commits/main/?author=eggriQu">Capitalisnn</a>
 Tycoon game made for my final 1st year game jam. Shown off at EGX 2025 by The University of Portsmouth
-https://github.com/AshyWashyUwU/Project-Brew-Inn/commits/main/?author=eggriQu
 
-# Gromlin Game
+# <a href="https://github.com/eggriQu/GromlinGame">Gromlin Game</a>
 2D Platformer made for a game jam as part of the Game Development module.
-https://github.com/eggriQu/GromlinGame
 
-# Swashbucklin
+# <a href="https://github.com/eggriQu/Swashbucklin">Swashbucklin'</a>
 Top down shooter prototype made for a game jam as part of the Game Development module.
-https://github.com/eggriQu/Swashbucklin
 
-# MANEGALATED
+# <a href="https://github.com/eggriQu/MANEGALATED">MANEGALATED</a>
 2D Fighting game made for Computer Science A Level NEA coursework.
-https://github.com/eggriQu/MANEGALATED
